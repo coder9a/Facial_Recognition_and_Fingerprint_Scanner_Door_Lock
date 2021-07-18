@@ -8,7 +8,8 @@ The facial recognition market is expected to  grow to $7.7 billion in 2022 from 
 kinds of commercial applications. It can be  used for everything from surveillance to  marketing.
 
 ## Circuit Diagram
-![Picture1](https://user-images.githubusercontent.com/42884781/126080581-0888dd18-52df-478a-a5a2-f407ac5c9bbe.png)
+![InkedPicture1_LI](https://user-images.githubusercontent.com/42884781/126080627-43e079cf-cf55-41c9-bb3f-127710608517.jpg)
+
 
 
 ## Final Circuit
