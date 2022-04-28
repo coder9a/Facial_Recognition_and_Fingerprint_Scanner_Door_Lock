@@ -1,4 +1,4 @@
-# Facial_Recognition_and_Fingerprint_Scanner_Door_Lock
+# Facial Recognition and Fingerprint Scanner Door Lock 
 
 We will Interface a Fingerprint Sensor Module  with Arduino and will build a Fingerprint based  Biometric Security System in combination with  facial recognition for door locking and  unlocking.
 More than 650 criminals, fugitives, persons of
